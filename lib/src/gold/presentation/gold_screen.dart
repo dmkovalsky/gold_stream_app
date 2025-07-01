@@ -23,7 +23,7 @@ class GoldScreen extends StatelessWidget {
               GoldHeader(),
               SizedBox(height: 20),
               Text(
-                'Live Kurs:',
+                'Live Kurs: Bonus',
                 style: Theme.of(context).textTheme.headlineMedium,
               ),
               SizedBox(height: 20),
