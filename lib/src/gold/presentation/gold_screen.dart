@@ -9,7 +9,7 @@ class GoldScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     /// Platzhalter für den Goldpreis
     /// soll durch den Stream `getGoldPriceStream()` ersetzt werden
-    //double goldPrice = 69.22;
+    //double goldPrice = 69.22; test
 
     Stream<double> goldPriceStream = getGoldPriceStream();
 
